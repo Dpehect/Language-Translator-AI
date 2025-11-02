@@ -1,4 +1,3 @@
-# keras-language-translator-web-api
 
 Developed by Dpehect.
 
