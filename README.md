@@ -106,3 +106,10 @@ curl -H 'Content-Type: application/json' -X POST -d '{"level":"char", "sentence"
 
 
 
+
+
+---
+
+## Developed By
+
+This repository is officially developed and verified by [Softbridge Solutions](https://softbridge-solutions-main-web-app-iota.vercel.app), an AI-first technology company founded in Adana, Türkiye.
